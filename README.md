@@ -7,7 +7,7 @@ Aplikasi sederhana pemesanan menu restoran
 Webpage Preview
 
 ![foodcorner](https://user-images.githubusercontent.com/50720858/58371517-afd35d80-7ec6-11e9-96b0-cc0d96e2c451.PNG)
-![fc2](https://user-images.githubusercontent.com/50720858/58371869-6e44b180-7eca-11e9-9b88-05be9e982b01.PNG)
-![fc3](https://user-images.githubusercontent.com/50720858/58371871-713fa200-7eca-11e9-8218-68f62cd57f6e.PNG)
+![screencapture-localhost-foodcorner-mobile-app-html-2019-05-25-08_57_28](https://user-images.githubusercontent.com/50720858/58371936-32f6b280-7ecb-11e9-91c4-07c05ba2e9e1.png)
+
 
 
