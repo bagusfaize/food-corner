@@ -1,7 +1,7 @@
 # food-corner
 Aplikasi sederhana pemesanan menu restoran
 
-- Dibuat menggunakan PHP Native, HTML, CSS, Bootstrap, dan JavaScript
+- Dibuat menggunakan PHP Native,MySQL, HTML, CSS, Bootstrap, dan JavaScript
 
 
 Webpage Preview
